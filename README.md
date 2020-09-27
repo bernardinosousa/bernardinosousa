@@ -1,4 +1,4 @@
-### Hi there 👋, Bernardino Sousa
+### Hi there 👋
 ![](https://bernardinosousa.site/img/me.png)
 
 I live in Porto, Portugal and i enjoy helping other people using my skills. 
