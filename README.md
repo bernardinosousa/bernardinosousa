@@ -3,10 +3,9 @@
 
 I live in Porto, Portugal and i enjoy helping other people using my skills. 
 
-Skills: PHP / Vue.js / HTML / CSS / JS
+Skills: PHP (Wordpress/Laravel) / HTML / CSS / JS (Vanilla, jQuery, Vue.js)
 
 - 🔭 I’m currently working on CiberConceito 
-- 🌱 I’m currently learning Wordpress and WHMCS 
 - 📫 How to reach me: bfgsousa@gmail.com
 
 
