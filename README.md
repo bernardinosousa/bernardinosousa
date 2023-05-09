@@ -1,11 +1,10 @@
 ### Hi there 👋
-![](https://bernardinosousa.xyz/img/me.png)
 
 I live in Porto, Portugal and i enjoy helping other people using my skills. 
 
 Skills: PHP (Wordpress/Laravel/WHMCS/Hostbill) / HTML / CSS / JS (Vanilla, jQuery, Vue.js) / [Sourcepawn](https://wiki.alliedmods.net/Category:SourceMod_Scripting)
 
-- 🔭 I’m currently working on CiberConceito 
+- 🔭 I’m currently working on Inapa 
 - 📫 How to reach me: bfgsousa@gmail.com
 
 
