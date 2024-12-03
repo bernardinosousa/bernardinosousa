@@ -2,7 +2,7 @@
 
 I live in Porto, Portugal and i enjoy helping other people using my skills. 
 
-- 🔭 I’m currently working as Freelancer Web Developer
+- 🔭 I’m currently working as Senior Developer
 - 📫 How to reach me: dev@bernardinosousa.xyz
 
 
